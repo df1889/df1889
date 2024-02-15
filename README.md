@@ -1,6 +1,6 @@
 # Hello World!
 
-[![df1889's GitHub stats](https://github-readme-stats.vercel.app/api?username=df1889&include_all_commits=true&theme=nord&hide_border=true&count_private=true)](https://github.com/df1889/github-readme-stats)
+[![df1889's GitHub stats](https://github-readme-stats.vercel.app/api?username=df1889)](https://github.com/df1889/github-readme-stats)
 
 ## > Default Stack
 <span>
